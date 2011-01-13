@@ -1,0 +1,112 @@
+
+
+Started GET "/rails/info/properties" for 192.168.1.2 at 2011-01-13 19:01:53 +0000
+
+LoadError (no such file to load -- sqlite3):
+  
+
+
+
+Started GET "/rails/info/properties" for 192.168.1.2 at 2011-01-13 19:01:57 +0000
+
+LoadError (no such file to load -- sqlite3):
+  
+
+
+
+Started GET "/test" for 192.168.1.2 at 2011-01-13 19:02:02 +0000
+
+LoadError (no such file to load -- sqlite3):
+  
+
+
+
+Started GET "/test" for 192.168.1.2 at 2011-01-13 19:02:23 +0000
+
+LoadError (no such file to load -- sqlite3):
+  
+
+
+
+Started GET "/test" for 192.168.1.2 at 2011-01-13 19:02:31 +0000
+
+LoadError (no such file to load -- sqlite3):
+  
+
+
+
+Started GET "/test" for 192.168.1.2 at 2011-01-13 19:02:32 +0000
+
+LoadError (no such file to load -- sqlite3):
+  
+
+
+
+Started GET "/test" for 192.168.1.2 at 2011-01-13 19:04:34 +0000
+
+LoadError (no such file to load -- sqlite3):
+  
+
+
+
+Started GET "/test" for 192.168.1.2 at 2011-01-13 19:04:45 +0000
+
+LoadError (no such file to load -- sqlite3):
+  
+
+
+
+Started GET "/rails/info/properties" for 192.168.1.2 at 2011-01-13 19:04:58 +0000
+
+LoadError (no such file to load -- sqlite3):
+  
+
+
+
+Started GET "/rails/info/properties" for 192.168.1.2 at 2011-01-13 19:09:00 +0000
+
+LoadError (no such file to load -- sqlite3):
+  
+
+
+
+Started GET "/rails/info/properties" for 192.168.1.2 at 2011-01-13 19:12:50 +0000
+
+LoadError (no such file to load -- sqlite3):
+  
+
+
+
+Started GET "/rails/info/properties" for 192.168.1.2 at 2011-01-13 20:29:25 +0000
+
+LoadError (no such file to load -- sqlite3):
+  
+
+
+
+Started GET "/rails/info/properties" for 192.168.1.2 at 2011-01-13 20:29:42 +0000
+
+LoadError (no such file to load -- sqlite3):
+  
+
+
+
+Started GET "/rails/info/properties" for 192.168.1.2 at 2011-01-13 20:33:55 +0000
+
+LoadError (no such file to load -- sqlite3):
+  
+
+
+
+Started GET "/rails/info/properties" for 192.168.1.2 at 2011-01-13 20:34:59 +0000
+
+ActionController::RoutingError (No route matches "/rails/info/properties"):
+  
+
+
+
+Started GET "/rails/info/properties" for 192.168.1.2 at 2011-01-13 21:18:21 +0000
+
+ActionController::RoutingError (No route matches "/rails/info/properties"):
+  
+
