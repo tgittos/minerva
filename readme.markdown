@@ -11,12 +11,15 @@ Requirements
 * Ruby 1.9 (that's what I'm using to develop it)
 * Rails 3.03 (again, that's what I'm using)
 * [SWFTools](http://www.swftools.org) installed
+* [Ghostscript](http://www.ghostscript.com) installed
+* [xpdf](http://www.foolabs.com/xpdf/) installed
 
 Features
 ========
 
 * Bootstrapped FlexPaper viewer
 * Ruby file to do the conversion from pdf to swf
+* Ruby file to sanitise and extract text from the pdf
 
 Technical
 =========
