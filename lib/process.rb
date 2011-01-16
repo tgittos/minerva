@@ -44,10 +44,11 @@ class PdfProcessor
 
       # Step 2: Run OCR on each file in the images dir
       output = ""
-      Dir.foreach(dirname) do |file|
+      file_list = Dir.entries(dirname).sort!
+      file_list.each do |file|
         if file != '.' and file != '..'
           path = File.join(dirname, file) 
-          `gocr -i #{path} -o #{path}.txt -f ASCII`
+          `ocrad #{path} -i -o #{path}.txt`
           output = output << File.open(path + ".txt", "r") { |f| f.read }
         end
       end

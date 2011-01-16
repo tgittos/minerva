@@ -13,6 +13,7 @@ Requirements
 * [SWFTools](http://www.swftools.org) installed
 * [Ghostscript](http://www.ghostscript.com) installed
 * [xpdf](http://www.foolabs.com/xpdf/) installed
+* ocrad installed
 
 Features
 ========
